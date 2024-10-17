@@ -296,4 +296,18 @@ export const doctors = [
             line2: 'Circle, Ring Road, London'
         }
     },
+    {
+        _id: 'doc16',
+        name: 'Dr. Sarah Miller',
+        image: doc15,
+        speciality: 'Gastroenterologist',
+        degree: 'MBBS',
+        experience: '1 Years',
+        about: 'Dr. Sarah has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Sarah has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        fees: 30,
+        address: {
+            line1: '47th Cross, Richmond',
+            line2: 'Circle, Ring Road, London'
+        }
+    }
 ]
